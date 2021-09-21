@@ -1,0 +1,16 @@
+{"companies":
+    [{
+        "name": "BMW",
+        "noofemployees":1000,
+        "services":["cars","bikes"],
+        "networth":1000000
+           },
+       {
+           "name": "AUDI",
+           "noofemployees":500,
+           "services":["cars"],
+           "networth":100000
+       }]
+
+}
+ 
